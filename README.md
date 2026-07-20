@@ -118,9 +118,9 @@ Tools:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pamudimaleesha&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pamudimaleesha&show_icons=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudimaleesha&layout=compact&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudimaleesha&layout=compact" width="48%" />
 
 </div>
 
