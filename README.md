@@ -1,5 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pamudi%20Maleesha&fontSize=50" />
+
 # Hi, I'm Pamudi Maleesha 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=pamudimaleesha&color=blue)
 <div align="center">
 
 ### 💻 HND IT Student | Aspiring Full-Stack Developer | UI/UX Enthusiast
@@ -19,7 +22,7 @@ Building creative, user-friendly web applications and continuously improving my 
 - 🚀 Love building real-world projects and solving problems through technology
 
 ---
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=HND+IT+Student;Aspiring+Full+Stack+Developer;UI%2FUX+Design+Enthusiast)](https://git.io/typing-svg)
 ## 🛠️ Technical Skills
 
 ### Frontend Development
