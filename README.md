@@ -114,15 +114,12 @@ Tools:
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 GitHub Journey
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pamudimaleesha&show_icons=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudimaleesha&layout=compact" width="48%" />
-
-</div>
+- 💻 Building web applications using PHP, MySQL and JavaScript
+- 🎨 Designing user interfaces with Figma
+- 🌱 Continuously learning modern development practices
+- 🚀 Creating real-world projects to improve my skills
 
 ---
 
