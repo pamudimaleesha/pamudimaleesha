@@ -50,7 +50,6 @@ Building creative, user-friendly web applications and continuously improving my 
 ### 🛍️ Aura Clothing – Full-Stack E-Commerce Website
 
 A responsive full-stack clothing e-commerce platform with secure authentication and a complete shopping experience.
-
 **🛠️ Technologies**
 - PHP
 - MySQL
