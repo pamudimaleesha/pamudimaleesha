@@ -47,63 +47,120 @@ Building creative, user-friendly web applications and continuously improving my 
 
 ## 🚀 Featured Projects
 
-### 🛍️ Aura Clothing - E-Commerce Website
+## 🚀 Featured Projects
 
-A full-stack clothing e-commerce platform developed for online shopping.
+### 🛍️ Aura Clothing – Full-Stack E-Commerce Website
 
-**Technologies:**
+A responsive full-stack clothing e-commerce platform with secure authentication and a complete shopping experience.
+
+**🛠️ Technologies**
 - PHP
 - MySQL
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Bootstrap
 
-**Features:**
-- User Authentication
-- Product Management
-- Shopping Cart
-- Wishlist System
-- Checkout Process
-- Admin Dashboard
+**✨ Key Features**
+- 🔐 User Authentication
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 💳 Checkout System
+- ⚙️ Admin Dashboard
+
+---
+
+### 🛒 GroceryGo – Online Grocery Shopping System
+
+A modern grocery shopping platform that enables customers to browse products and place orders online.
+
+**🛠️ Technologies**
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+**✨ Key Features**
+- 🛒 Product Catalog
+- 🛍️ Shopping Cart
+- 📦 Order Management
+- ⚙️ Admin Panel
+
+---
+
+### 📍 Smart Attendance Management System
+
+A modern attendance management system designed to simplify student attendance tracking and administration.
+
+**🛠️ Technologies**
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+**✨ Key Features**
+- 🔐 Secure Authentication
+- 👨‍🎓 Student Management
+- 👨‍🏫 Lecturer Management
+- 📅 Attendance Tracking
+- 📊 Reports & Analytics
+- ⚙️ Admin Dashboard
+- 📱 Responsive Design
 
 ---
 
 ### 🌐 Event Management Website
 
-A responsive web application designed to manage event-related information.
+A responsive website developed to manage and display event information.
 
-**Technologies:**
-- HTML
-- CSS
+**🛠️ Technologies**
+- HTML5
+- CSS3
 - JavaScript
+- Boostrap
+
+**✨ Key Features**
+- 📅 Event Listings
+- 📝 Event Details
+- 📱 Responsive Design
 
 ---
 
 ### 🏛️ Temple of the Tooth Relic Website
 
-A tourism-focused website providing information about a historical location.
+A tourism-focused website showcasing information about the Temple of the Tooth Relic in Sri Lanka.
 
-**Technologies:**
-- HTML
-- CSS
+**🛠️ Technologies**
+- HTML5
+- CSS3
 - JavaScript
+- Boostrap
+
+**✨ Key Features**
+- 🏛️ Historical Information
+- 🖼️ Image Gallery
+- 📍 Tourist Guide
+- 📱 Responsive Design
 
 ---
 
 ## 🎨 UI/UX Design
 
-Currently exploring:
+**Currently Exploring**
+- 📱 Mobile App UI Design
+- 📝 Wireframing
+- 🎯 Prototyping
+- 👥 User-Centered Design
 
-- Mobile App UI Design
-- Wireframing
-- Prototyping
-- User-centered Design
-
-Tools:
+**🛠️ Design Tool**
 - Figma
-
----
 
 ## 📚 Currently Learning
 
@@ -125,12 +182,17 @@ Tools:
 - 🚀 Creating real-world projects to improve my skills
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pamudimaleesha&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
 
 ## 🤝 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/pamudi-rohitha
 
-📧 Email: pamudimaleesha012@gmail.com
+📧 Email: pamudirohitha@gmail.com
 
 ---
 
@@ -141,3 +203,6 @@ Tools:
 Let's build something amazing together 🚀
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" />
+</p>
