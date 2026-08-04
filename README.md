@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pamudi%20Maleesha&fontSize=50" />
 
-# Hi, I'm Pamudi Maleesha 👋
+# Hi, I'm Pamudi Maleesha👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pamudimaleesha&color=blue)
 <div align="center">
