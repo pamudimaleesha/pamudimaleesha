@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pamudimaleesha&color=blue)
 <div align="center">
 
-### 💻 HND IT Student | Aspiring Full-Stack Developer | UI/UX Enthusiast
+### 💻 HND IT Student | Aspiring Full-Stack Developer | UI/UX Enthusiast.
 
 Building creative, user-friendly web applications and continuously improving my development skills 🚀
 
